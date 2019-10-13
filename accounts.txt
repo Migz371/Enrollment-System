@@ -1,0 +1,8 @@
+joshua,caesar,1,admin
+Anton,12345,student,201811025,X01
+Dan,123,student,201811026,X02
+Mark,555,student,201811027,X04
+Drey,321,student,201811028,X01
+Benj,222,student,201811029,X02
+tester,111,student,201811030,X03
+dudong,123,student,201811031,X03
