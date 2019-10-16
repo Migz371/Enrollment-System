@@ -2,7 +2,7 @@ Enrollment system
 
 
 LOGIN:
-Detects if you are an Admin or A Student
+Detects if you are an Admin or a Student
 
 
 
